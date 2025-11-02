@@ -7,7 +7,7 @@ from langgraph.graph.message import add_messages
 from dotenv import load_dotenv
 
 import os
-os.environ['GROQ_API_KEY']="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"
+os.environ['GROQ_API_KEY']=""
 
 load_dotenv()
 
